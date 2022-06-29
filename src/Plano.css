@@ -1,0 +1,14 @@
+.plano-container {
+    border: 1px solid red;
+
+    flex-direction: column;
+    align-items: center;
+}
+
+.plano-titulo {
+    font-weight: 700;    
+}
+
+.plano-info {
+    font-size: 14px;
+}
